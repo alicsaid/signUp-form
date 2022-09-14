@@ -23,3 +23,5 @@ hotmail.com or pmf.unsa.ba;
 must be a number and at least one character must be a letter;
 ● repeated password- the code entered must be the same as the one entered in the
 previous field.
+
+----------
