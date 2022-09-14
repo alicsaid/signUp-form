@@ -1,0 +1,25 @@
+Form validation
+
+The registration form contains the following fields:
+● name,
+● last name,
+● jmbg ,
+● date of birth,
+● e-mail,
+● password,
+● repeated password.
+
+Conditions:
+
+● name - the length of the entered text must be greater than zero and the first letter must be
+capitalized;
+● last name - the length of the entered text must be greater than zero and the first letter must
+to be capitalized;
+● jmbg - the entered jmbg consists only of numbers from 0 to 9 and there must be exactly 13 of them;
+● date of birth - the user must be at least 16 years old;
+● e-mail - the entered e-mail must contain the @ sign and must be gmail.com,
+hotmail.com or pmf.unsa.ba;
+● password - the entered code must contain 10 characters, of which at least one character
+must be a number and at least one character must be a letter;
+● repeated password- the code entered must be the same as the one entered in the
+previous field.
